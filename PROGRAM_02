@@ -1,0 +1,16 @@
+Area of Triangle
+package placement;
+
+public class example_02 {
+
+	public static void main(String[] args) {
+		        double base = 10;
+		        double height = 5;
+
+		        double area = (base * height) / 2;
+
+		        System.out.println("Area of Triangle = " + area);
+		    }
+		}
+output:
+Area of Triangle = 25.0
