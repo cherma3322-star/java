@@ -1,0 +1,12 @@
+length
+package placement;
+
+public class example_10 {
+
+	public static void main(String[] args) {
+		        String str = "HelloWorld";
+		        System.out.println("Length = " + str.length());
+	}
+}
+Output:
+Length = 10
